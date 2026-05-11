@@ -4,7 +4,7 @@ compatibility_date = "2025-04-09"
 compatibility_flags = ["nodejs_compat"]
 [vars]
 BASE_URL = "https://tianshu.cn35.ugdocker.link/"
-PORT = "8211"
+PORT = "8080"
 USERNAME = "devil"
 
 [[kv_namespaces]]
